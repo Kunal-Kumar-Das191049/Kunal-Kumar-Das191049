@@ -5,6 +5,7 @@ I'm Kunal From Jharkhand,India. I'm pursuing B.tech from Technocrats Institute o
 
 ## Skills and Experiecces: 
 💻   Java,C++,Python
+
 🔌💡  Electrical Autocad,VLSI,PLC
 
 - 🔭 I’m currently working on My Own Project 
