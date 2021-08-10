@@ -1,7 +1,7 @@
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(2917).png)
 
 # Kunal Kumar Das
-I'm Kunal From Jharkhand India. I'm pursuing B.tech from Technocrats Institute of Technology ,Bhopal MP.I really Enjoy Learning Programming Languages.
+I'm Kunal From Jharkhand,India. I'm pursuing B.tech from Technocrats Institute of Technology ,Bhopal MP.I really Enjoy Learning Programming Languages.
 
 ## Skills and Experiecces: 
 💻   Java,C++,Python
