@@ -4,11 +4,9 @@
 I'm Kunal From Jharkhand,India. I'm pursuing B.tech from Technocrats Institute of Technology ,Bhopal MP.I really Enjoy Learning Programming Languages.
 
 ## Skills and Experiecces: 
-💻   Java,C++,Python
+💻   JAVA,C++,DBMS,MYSQL,DSA,HTML,CSS,PHP,JAVASCRIPT,JQUERY,NODE.JS,REACT.JS
 
-🔌💡  Electrical Autocad,VLSI,PLC
-
-- 🔭 I’m currently working on My Own Project 
+- 🔭 I’m currently working on My new Project 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Das191049&hide=contribs,prs)
 
