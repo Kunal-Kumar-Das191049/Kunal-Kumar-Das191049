@@ -1,7 +1,6 @@
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(2917).png)
 
 # Kunal Kumar Das
-I'm Kunal From Jharkhand,India.
 
 Programming enthusiast ,Technophile , Adoptable
 
@@ -11,10 +10,10 @@ Programming enthusiast ,Technophile , Adoptable
 
 - 🔭 I’m currently working on My new Project 
 
-5 * @ HackerEarth.
-5 * @ HackerRank.
-3 * @ CodeChef
-AIR 2 @ Model comp. held by IEI
+    5 * @ HackerEarth.
+    5 * @ HackerRank.
+    3 * @ CodeChef
+    AIR 2 @ Model comp. held by IEI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Das191049&hide=contribs,prs)
 
