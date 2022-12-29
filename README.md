@@ -4,15 +4,17 @@
 I'm Kunal From Jharkhand,India.
 
 Programming enthusiast ,Technophile , Adoptable
-5 * @ HackerEarth.
-5 * @ HackerRank.
-3 * @ CodeChef
-AIR 2 @ Model comp. held by IEI
+
 
 ## Skills and Experiecces: 
 💻   JAVA,C++,DBMS,MYSQL,DSA,HTML,CSS,PHP,JAVASCRIPT,JQUERY,NODE.JS,REACT.JS
 
 - 🔭 I’m currently working on My new Project 
+
+5 * @ HackerEarth.
+5 * @ HackerRank.
+3 * @ CodeChef
+AIR 2 @ Model comp. held by IEI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Das191049&hide=contribs,prs)
 
