@@ -1,7 +1,13 @@
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(2917).png)
 
 # Kunal Kumar Das
-I'm Kunal From Jharkhand,India. I'm pursuing B.tech from Technocrats Institute of Technology ,Bhopal MP.I really Enjoy Learning Programming Languages.
+I'm Kunal From Jharkhand,India.
+
+Programming enthusiast ,Technophile , Adoptable
+5 * @ HackerEarth.
+5 * @ HackerRank.
+3 * @ CodeChef
+AIR 2 @ Model comp. held by IEI
 
 ## Skills and Experiecces: 
 💻   JAVA,C++,DBMS,MYSQL,DSA,HTML,CSS,PHP,JAVASCRIPT,JQUERY,NODE.JS,REACT.JS
