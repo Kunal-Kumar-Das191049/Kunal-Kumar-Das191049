@@ -10,9 +10,9 @@ Programming enthusiast ,Technophile , Adoptable
 
 - 🔭 I’m currently working on My new Project 
 
-    5 * @ HackerEarth.
-    5 * @ HackerRank.
-    3 * @ CodeChef
+    5 * @ HackerEarth, 
+    5 * @ HackerRank,
+    3 * @ CodeChef,
     AIR 2 @ Model comp. held by IEI
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Das191049&hide=contribs,prs)
