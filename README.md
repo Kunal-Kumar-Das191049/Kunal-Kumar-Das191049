@@ -18,7 +18,7 @@ Programming enthusiast ,Technophile , Adoptable
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kunal-Kumar-Das191049&hide=contribs,prs)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kunal-Kumar-Das191049)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://media.licdn.com/dms/image/C5616AQHfMAbSm95qIg/profile-displaybackgroundimage-shrink_350_1400/0/1660063155733?e=1677715200&v=beta&t=hZw_BzrXFs8BVORgAg9rg_QzHM9EHVlGwnaywn9YMMg)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Kunal-Kumar-Das191049)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kunal-kumar-das-6384b81b1/)  
 
 
 
