@@ -1,4 +1,4 @@
-![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(2917).png)
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(196).png)
 
 # Kunal Kumar Das
 
