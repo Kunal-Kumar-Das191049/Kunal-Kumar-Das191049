@@ -1,3 +1,4 @@
+![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(196).png)
 <h1 align="center">Hi 👋, I'm Kunal Kumar Das</h1>
 <h3 align="center">I'm a Programming enthusiast ,Technophile & Adoptable and passionate frontend and backend developer.</h3>
 
