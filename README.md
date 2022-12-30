@@ -21,7 +21,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunal Kumar Das191049&show_icons=true&locale=en" alt="kunalkumardas191049" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal kumar Das191049&" alt="Kunal Kumar Das191049" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Kunal-kumar-Das191049" alt="Kunal Kumar Das191049" /></p>
 
 
 
