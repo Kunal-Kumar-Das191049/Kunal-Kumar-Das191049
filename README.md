@@ -1,7 +1,6 @@
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(196).png)
 <h1 align="center">Hi 👋, I'm Kunal Kumar Das</h1>
 <h3 align="center">SDET | Aspiring Data Engineer | Backend Enthusiast</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966"> -->
 
 
 
@@ -9,6 +8,46 @@
 
 
 - 📫 How to reach me **kunalkaran0326@gamil.com**
+- ## 💻 What I Work With
+ 
+### 🟢 Backend & Programming
+- Java
+- Spring Boot
+- REST APIs
+- SQL (MySQL, PostgreSQL)
+- Object-Oriented Programming
+ 
+### 🟠 Test Automation
+- Selenium WebDriver
+- TestNG / JUnit
+- Cucumber (BDD)
+- API Testing (Postman, RestAssured)
+- Automation Framework Design
+ 
+### 🔵 Data Engineering & Cloud
+- Azure Data Factory
+- Azure Data Lake Storage (ADLS Gen2)
+- Azure Databricks
+- Unity Catalog
+- Delta Live Tables (DLT)
+- Spark Structured Streaming
+- PySpark
+- Databricks Asset Bundles
+- Medallion Architecture (Bronze-Silver-Gold)
+- Git & CI/CD
+ 
+---
+ 
+## 🌱 Currently Learning
+- Advanced Spark Optimization
+- Data Modeling for Analytics
+- Distributed Systems
+- Cloud Architecture
+ 
+---
+ 
+## 🤝 Let's Connect
+I'm open to collaborating on backend or data engineering projects and always excited to learn from the tech community.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
