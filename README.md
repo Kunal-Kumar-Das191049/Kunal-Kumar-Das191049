@@ -5,7 +5,8 @@
 
 
 
-- 💬 Ask me about **JAVA, Frontend & Backend Development.**
+- I am a  Software Development Engineer in Test(SDET) with 2+ years of experience in Java-based automation and backend validation. Currently transitioning into **Data Engineering** , building end-to-end data pipelines on Azure using Databricks, Spark Structured Streaming, and Medallion Architecture.
+
 
 - 📫 How to reach me **kunalkaran0326@gamil.com**
 
