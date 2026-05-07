@@ -10,7 +10,7 @@
 - 📫 How to reach me **kunalkumardas1999@gmail.com**
 - ## 💻 What I Work With
 
-- ### 🔵 Data Engineering & Cloud
+- ### 🔵 Data Engineering 
   
 - Data Engineering: Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
 - Cloud and Storage: Azure Data Factory, Azure Data Lake Storage Gen2, Unity Catalog
