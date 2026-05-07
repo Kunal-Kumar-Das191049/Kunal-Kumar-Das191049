@@ -7,7 +7,7 @@
 - I am a  Software Development Engineer in Test(SDET) with 2+ years of experience currently transitioning into **Data Engineering** , building end-to-end data pipelines on Azure using Databricks, Spark Structured Streaming, and Medallion Architecture.
 
 
-- 📫 How to reach me **kunalkaran0326@gamil.com**
+- 📫 How to reach me **kunalkumardas1999@gmail.com**
 - ## 💻 What I Work With
 
 - ### 🔵 Data Engineering & Cloud
