@@ -1,6 +1,6 @@
 ![Development and Design](https://github.com/Kunal-Kumar-Das191049/Kunal-Kumar-Das191049/blob/main/Screenshot%20(196).png)
 <h1 align="center">Hi 👋, I'm Kunal Kumar Das</h1>
-<h3 align="center">SDET | Aspiring Data Engineer | Backend Enthusiast</h3>
+<h3 align="center">Data Engineer | Azure | Databricks | Spark | Delta Lake</h3>
 
 
 
