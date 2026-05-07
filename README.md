@@ -20,7 +20,7 @@ I am a  Software Development Engineer in Test(SDET) with 2+ years of experience 
   
   **🔵Programming and Querying:** Python, SQL, Java
   
-  **🔵DevOps and Tools: ** Git, GitHub, Databricks Asset Bundles (CI/CD)
+  **🔵DevOps and Tools:** Git, GitHub, Databricks Asset Bundles (CI/CD)
  
  
 ---
