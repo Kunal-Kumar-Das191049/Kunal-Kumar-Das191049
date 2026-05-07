@@ -11,6 +11,7 @@ I am a  Software Development Engineer in Test(SDET) with 2+ years of experience 
   ## 💻 What I Work With
 
   **🔵Data Engineering:** Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
+  
   **🔵Cloud and Storage:** Azure Data Factory, Azure Data Lake Storage Gen2, Unity Catalog
   **🔵Big Data and Processing:** Apache Spark, PySpark, Databricks Auto Loader, Spark Structured Streaming
   **🔵Data Modeling:** Star Schema, Slowly Changing Dimensions (SCD Type 2)
