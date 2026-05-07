@@ -9,22 +9,8 @@
 
 - 📫 How to reach me **kunalkaran0326@gamil.com**
 - ## 💻 What I Work With
- 
-### 🟢 Backend & Programming
-- Java
-- Spring Boot
-- REST APIs
-- SQL (MySQL, PostgreSQL)
-- Object-Oriented Programming
- 
-### 🟠 Test Automation
-- Selenium WebDriver
-- TestNG / JUnit
-- Cucumber (BDD)
-- API Testing (Postman, RestAssured)
-- Automation Framework Design
- 
-### 🔵 Data Engineering & Cloud
+
+- ### 🔵 Data Engineering & Cloud
 - Azure Data Factory
 - Azure Data Lake Storage (ADLS Gen2)
 - Azure Databricks
@@ -36,6 +22,7 @@
 - Medallion Architecture (Bronze-Silver-Gold)
 - Git & CI/CD
  
+ 
 ---
  
 ## 🌱 Currently Learning
@@ -45,6 +32,15 @@
 - Cloud Architecture
  
 ---
+### 🟠 Test Automation
+- Selenium WebDriver
+- TestNG / JUnit
+- Cucumber (BDD)
+- API Testing (Postman, RestAssured)
+- Automation Framework Design
+ 
+
+
  
 ## 🤝 Let's Connect
 I'm open to collaborating on backend or data engineering projects and always excited to learn from the tech community.
