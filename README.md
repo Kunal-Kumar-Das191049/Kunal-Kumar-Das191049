@@ -18,7 +18,7 @@ I am a  Software Development Engineer in Test(SDET) with 2+ years of experience 
   
   **🔵Data Modeling:** Star Schema, Slowly Changing Dimensions (SCD Type 2)
   
-  **🔵Programming and Querying: **Python, SQL, Java
+  **🔵Programming and Querying:** Python, SQL, Java
   
   **🔵DevOps and Tools: ** Git, GitHub, Databricks Asset Bundles (CI/CD)
  
