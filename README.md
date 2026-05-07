@@ -10,7 +10,7 @@ I am a  Software Development Engineer in Test(SDET) with 2+ years of experience 
 📫 Reach me @ **kunalkumardas1999@gmail.com**
   ## 💻 What I Work With
 
-  **🔵 Data Engineering:** Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
+  **🔵Data Engineering:** Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
   ### 🔵Cloud and Storage:
    Azure Data Factory, Azure Data Lake Storage Gen2, Unity Catalog
   ### 🔵Big Data and Processing:
