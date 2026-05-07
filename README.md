@@ -30,16 +30,6 @@
 - Data Modeling for Analytics
 - Distributed Systems
 - Cloud Architecture
- 
----
-### 🟠 Test Automation
-- Selenium WebDriver
-- TestNG / JUnit
-- Cucumber (BDD)
-- API Testing (Postman, RestAssured)
-- Automation Framework Design
- 
-
 
  
 ## 🤝 Let's Connect
