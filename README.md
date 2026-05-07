@@ -7,21 +7,21 @@
 I am a  Software Development Engineer in Test(SDET) with 2+ years of experience currently transitioning into **Data Engineering** , building end-to-end data pipelines on Azure using Databricks, Spark Structured Streaming, and Medallion Architecture.
 
 
-- 📫 Reach me @ **kunalkumardas1999@gmail.com**
+📫 Reach me @ **kunalkumardas1999@gmail.com**
   ## 💻 What I Work With
 
-- ### 🔵 Data Engineering: 
-     Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
-- ### 🔵Cloud and Storage:
-     Azure Data Factory, Azure Data Lake Storage Gen2, Unity Catalog
-- ### 🔵Big Data and Processing:
-     Apache Spark, PySpark, Databricks Auto Loader, Spark Structured Streaming
-- ### 🔵Data Modeling:
-     Star Schema, Slowly Changing Dimensions (SCD Type 2)
-- ### 🔵Programming and Querying:
-     Python, SQL, Java
-- ### 🔵DevOps and Tools:
-     Git, GitHub, Databricks Asset Bundles (CI/CD)
+  ### 🔵 Data Engineering: 
+   Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
+  ### 🔵Cloud and Storage:
+   Azure Data Factory, Azure Data Lake Storage Gen2, Unity Catalog
+  ### 🔵Big Data and Processing:
+   Apache Spark, PySpark, Databricks Auto Loader, Spark Structured Streaming
+  ### 🔵Data Modeling:
+   Star Schema, Slowly Changing Dimensions (SCD Type 2)
+  ### 🔵Programming and Querying:
+   Python, SQL, Java
+  ### 🔵DevOps and Tools:
+   Git, GitHub, Databricks Asset Bundles (CI/CD)
  
  
 ---
