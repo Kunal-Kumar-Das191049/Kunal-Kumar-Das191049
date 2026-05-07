@@ -11,7 +11,7 @@
 - ## 💻 What I Work With
 
 - ### 🔵 Data Engineering 
-          Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
+     Azure Databricks, Delta Lake, Delta Live Tables, Medallion Architecture
 - ### 🔵Cloud and Storage:
 - Azure Data Factory, Azure Data Lake Storage Gen2, Unity Catalog
 - ### 🔵Big Data and Processing:
